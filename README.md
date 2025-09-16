@@ -25,3 +25,6 @@ It covers **database design, sample data, analysis queries, and triggers**.
 sqlite3 ecommerce.db < schema.sql
 sqlite3 ecommerce.db < data.sql
 sqlite3 ecommerce.db < queries.sql
+
+
+
